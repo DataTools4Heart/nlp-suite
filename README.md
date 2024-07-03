@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<br/>
+<!-- <br/>
 
 <p align="center">
   <a href="https://github.com/DataTools4Heart/common-data-model">
@@ -21,4 +21,4 @@
   </a>
 </p>
 
-<br/>
+<br/> -->
